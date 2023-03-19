@@ -1,1 +1,1 @@
-# React-simple-calculator
+# React-Simple-Calculator
